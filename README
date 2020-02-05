@@ -5,6 +5,3 @@ With default key generation policy it implements distributed hash table object s
 The network does not use dedicated servers to maintain the metadata information,
 it supports redundant objects storage.
 Small to medium sized write benchmarks can be found on eblob page and in the appropriate blog section.
-
-For more details check http://reverbrain.com/elliptics
-Google group: https://groups.google.com/forum/?fromgroups=#!forum/reverbrain
